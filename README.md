@@ -1,7 +1,7 @@
--  @rigged-election
+-  @yami-exe
 -  I’m interested in coding.
 -  I’m currently learning coding.
--  How to reach me coding.
+-  How to reach me? Through coding.
 
 <!---
 rigged-election/rigged-election is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
